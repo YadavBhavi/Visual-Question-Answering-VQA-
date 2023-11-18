@@ -7,4 +7,4 @@ Course Project, Guide: Prof Pushpak Bhattacharya; [April ’23] <br />
 
 Click [here](./presentation_vqa.pdf) for more details <br />
 
-Papaer implemented -> [VQA: Visual Question Answering, Agrawal, Lu et.al] (https://arxiv.org/pdf/1505.00468.pdf)
+Papaer implemented -> [VQA: Visual Question Answering, Agrawal, Lu et.al](https://arxiv.org/pdf/1505.00468.pdf)
